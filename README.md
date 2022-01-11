@@ -2,11 +2,6 @@
 
 I'm **Christian Gmeiner**, a software developer hacking on Linux stuff.
 
-You can **find me** at:
-
-- I'm [@austriancoder on Twitter][twitter].
-- On [OTFC IRC][oftc], I'm austriancoder.
-
 <!--
 **austriancoder/austriancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
